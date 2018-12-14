@@ -1,0 +1,9 @@
+#pastas do workspaces
+.metadata/
+.recommenders/
+[Ss]ervers/
+
+#pastas e arquivos do proje
+.setings/
+*.class
+lib/
